@@ -1,0 +1,5 @@
+chrome-win/
+__pycache__/
+*.json
+*.exe
+/data/photos
